@@ -1,2 +1,3 @@
-# used by Camera2 app
-include platform/packages/apps/Camera2:/OWNERS
+version https://git-lfs.github.com/spec/v1
+oid sha256:040886160ceda09dca63b59ded82cd408a4a524e80ca9d5579c7b6db7489319b
+size 69
